@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giggi</h1>
-<h3 align="center">Gaps are as important as electrons</h3>
+<h3 align="center">Gaps are as important as Electrons</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggr07&label=Profile%20views&color=0e75b6&style=flat" alt="ggr07" /> </p>
 
